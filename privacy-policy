@@ -1,0 +1,45 @@
+Privacy Policy for Islamic Dashboard Chrome Extension
+
+Last Updated: 04/09/2025
+
+1. Introduction
+Islamic Dashboard ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our Chrome extension.
+
+2. Information We Collect
+2.1 Location Data
+- We collect your geographical coordinates to calculate accurate prayer times
+- This data is stored locally on your device
+- We do not transmit or store your location data on external servers
+
+2.2 User Preferences
+- Theme selection (dark/light mode)
+- Selected Quran reciter
+- Notification preferences
+- Prayer time calculation method
+- All preferences are stored locally using Chrome's storage API
+
+3. How We Use Your Information
+- To provide accurate prayer times based on your location
+- To maintain your preferred settings and preferences
+- To deliver prayer time notifications
+- To play Quran audio from your selected reciter
+
+4. Data Storage and Security
+- All data is stored locally on your device
+- We use Chrome's secure storage API
+- We implement appropriate security measures to protect your data
+- We do not share your data with third parties
+
+5. Your Rights and Choices
+- You can disable location access at any time
+- You can modify or clear your preferences through the extension's settings
+- You can uninstall the extension to remove all stored data
+
+6. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+7. Contact Us
+If you have any questions about this Privacy Policy, please contact us at [Your Contact Information].
+
+8. Data Protection
+We comply with applicable data protection laws and regulations. We do not collect sensitive personal information, and all data processing is limited to the extension's core functionality.
